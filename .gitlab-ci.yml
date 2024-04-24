@@ -1,0 +1,10 @@
+variables:
+  SVC_NAME: slack-bot-service
+  DOMAIN: mod-intern
+  PYTHON_VERSION: 3.8-slim-buster
+  UNIT_TEST_ENDBLED: "false"
+
+include:
+  - project: 'nokchen-myorder/dev-portal/ci-template'
+    ref: 'master'
+    file: 'intern/fastapi-template.yml'

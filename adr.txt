@@ -1,0 +1,6 @@
+Date: --/--/----
+Title: refactor code เพื่อความง่ายในการทำความเข้าใจ
+Status: ยอมรับ
+Context: code เดิมซับซ้อนและยากต่อการแก้ไข ทำให้ต้องทำการ refactor
+Decision: refactor ส่วนของ function ที่ใช้ handle path ต่างๆ
+Consequences: โค้ดมีความซับซ้อนน้อยลง เป็นระเบียบและสื่่อความหมายได้ดีมากขึ้น
