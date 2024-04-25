@@ -45,6 +45,11 @@ Hi!, This project was developed as part of a training program. As a trainee, the
 - Dependencies: [SlackClient](https://github.com/slackapi/python-slackclient), [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - others from requirements.txt
 
+## Future Updates
+
+- **Facebook Page Scraping:** Implement scraping functionality to gather news updates from Facebook pages, expanding NewsBot's coverage of social media platforms.
+- **Generative AI Integration:** Utilize Generative AI technology to provide more personalized news summaries and recommendations, enhancing the user experience by delivering relevant content tailored to individual preferences.
+
 ## Conclusion
 
 Thank you for using *NewsBot*! If you have any questions or suggestions, please contact us at b.nontapat.work@gmail.com.
