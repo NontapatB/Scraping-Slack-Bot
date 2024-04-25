@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 ﻿# Scraping-Slack-Bot
+ 
 ![My Image](images/create-app.png)
-=======
+
 # NewsBot
 
 ![logo-slackbot](images/slack_bot_logo-removebg-preview.png)
