@@ -15,7 +15,7 @@ services:
     ports:
       - "5000:5000"
     environment:
-      MONGO_URI: "mongodb+srv://nontapatb:110020103431a@trainee-bot.fnniy7q.mongodb.net/?retryWrites=true&w=majority"
+      MONGO_URI: ""
       DB_NAME: "Test6"
     depends_on:
       - mongodb
