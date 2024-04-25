@@ -27,9 +27,12 @@ Hi!, This project was developed as part of a training program. As a trainee, the
 
 ## Example
 
-- `/news headlines`: Get the latest headlines.
-- `/news tech`: Get technology news.
-- `/news sports`: Get sports news.
+- `/bookmarks`: Show all bookmarks url.
+- `/help`: Help command will show details of all commands.
+- `/all_profiles`: Show all profile urls that added by users.
+- `/all_categories`: Show all categories that added by users.
+- `/add_profile`: Select website to enter the add form.
+- `/add_category`: Select website to enter the add form.
 
 ## System Requirements
 
@@ -38,5 +41,4 @@ Hi!, This project was developed as part of a training program. As a trainee, the
 
 ## Conclusion
 
-Thank you for using *NewsBot*! If you have any questions or suggestions, please contact us at [email or other contact channels].
->>>>>>> 65be1b6b29563b90901ca8feedea584e5835373f
+Thank you for using *NewsBot*! If you have any questions or suggestions, please contact us at b.nontapat.work@gmail.com.
