@@ -38,6 +38,7 @@ Hi!, This project was developed as part of a training program. As a trainee, the
 
 - Python 3.x
 - Dependencies: [SlackClient](https://github.com/slackapi/python-slackclient), [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- others from requirements.txt
 
 ## Conclusion
 
