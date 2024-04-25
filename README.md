@@ -12,10 +12,15 @@ Hi!, This project was developed as part of a training program. As a trainee, the
 
 1. **Set up the bot in Slack:** Create a bot in Slack and obtain the API token for usage.
 ![create-app](images/create-app.png)
+
 ![create-app](images/create-app2.png)
+
 ![enable-scope](images/scope.png)
+
 ![slash-command](images/slash-command.png)
+
 ![slash-command](images/example-slash.png)
+
 3. **Install on your server:** Download the NewsBot code and install necessary dependencies.
 4. **Configure settings:** Enter the Slack token obtained in step 1 and configure other settings as needed.
 5. **Run the bot:** Start using NewsBot on your server.
