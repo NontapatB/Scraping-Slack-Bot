@@ -5,6 +5,6 @@ variables:
   UNIT_TEST_ENDBLED: "false"
 
 include:
-  - project: 'nokchen-myorder/dev-portal/ci-template'
-    ref: 'master'
-    file: 'intern/fastapi-template.yml'
+  - project: ''
+    ref: ''
+    file: ''
